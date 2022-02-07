@@ -1,0 +1,15 @@
+.box {
+    background-image: url("../public/vegeta.gif");
+    min-height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    /* width: 5px; */
+}
+
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}

@@ -1,0 +1,9 @@
+
+.step-class {
+    background-color: rgb(36, 23, 49);
+    border: 2px dashed   rgb(48, 0, 93);
+    border-radius: 30%;
+    outline: none;
+    color: aliceblue;
+    bottom: 10px;
+}
